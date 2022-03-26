@@ -21,7 +21,6 @@
  .home{
  	height: 100vh;
  	background-image: url("images/ab.jpg");
-
  	background-size: cover;
  	background-position: center;
  	display: flex;
